@@ -10,7 +10,7 @@
 <br>
 
 
-- 🔭 I’m currently working on [redoing my portfolio in React](https://github.com/JRBoland/react-site-portfolio-rebuild)
+- 🔭 I’m currently working on [building a Full Stack MERN booking website](https://github.com/van-voyagers/T3A2-A-van-voyage-docs)
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Nodejs)**
 
