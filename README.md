@@ -10,9 +10,11 @@
 <br>
 
 
-- 🔭 I’m currently working on [building a Full Stack MERN booking website](https://github.com/van-voyagers/T3A2-A-van-voyage-docs)
+- 🔭 I’m currently working on some small freelance work with local businesses, updating their site using WordPress (first time using WordPress!) and rebuilding a separate site in React.
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Nodejs)**
+- 🌱 I’m currently learning how to use WordPress backend, and honing my skills in React.
+  
+- 🚐 Check out my most recent project, [Van Voyage](https://van-voyage.netlify.app). A full stack application using the MERN stack.
 
 - 👨‍💻 All of my projects are available at [https://jbdev.io](https://jbdev.io)
 
