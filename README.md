@@ -7,12 +7,10 @@
 <h3 align="left">A passionate Full Stack Developer currently studying with Coder Academy.</h3>
 
 <hr/>
-<br>
 
+- 🔭 I’m currently working on some small freelance work with local businesses, updating their site using WordPress (first time using WordPress!) and rebuilding a separate site in React. Outside of that, I'm working on a separate project building an [AI voice bot](https://github.com/JRBoland/gpt-chat-bot) utilising OpenAI's API with ElevenLabs voice-to-text integration, React (using react-media-recorder for voice queries), TypeScript, and TailwindCSS. 
 
-- 🔭 I’m currently working on some small freelance work with local businesses, updating their site using WordPress (first time using WordPress!) and rebuilding a separate site in React. Outside of that, I'm working on a separate project building an [AI voice bot](https://github.com/JRBoland/gpt-chat-bot) utilising OpenAI's API with ElevenLabs voice-to-text integration, react (using react-media-recorder for voice queries), typescript, and tailwindcss. 
-
-- 🌱 I’m currently learning how to use WordPress backend, and honing my skills in React.
+- 🌱 I’m currently learning how to use WordPress backend, TypeScript, and honing my skills in React.
   
 - 🚐 Check out my most recent project, [Van Voyage](https://van-voyage.netlify.app). A full stack application using the MERN stack.
 
