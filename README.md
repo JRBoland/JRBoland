@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning how to use WordPress backend, TypeScript, and honing my skills in React.
   
-- 🚐 Check out my most recent full stack project, [Van Voyage](https://van-voyage.netlify.app). A booking application using the MERN stack (be sure to check out the stickied docs repository for a full breakdown of the project!)
+- 🚐 Check out my most recent full stack project, [Van Voyage](https://van-voyage.netlify.app); a booking application using the MERN stack (be sure to check out the stickied docs repository for a full breakdown of the project!).
 
 - 👨‍💻 All of my projects are available at [https://jbdev.io](https://jbdev.io)
 
