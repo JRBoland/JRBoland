@@ -8,7 +8,7 @@
 
 <hr/>
 
-- 🔭 I’m currently working on some small freelance work with local businesses, updating their site using WordPress (first time using WordPress!) and rebuilding a separate site in React. Outside of that, I'm working on a separate project building an [AI voice bot](https://github.com/JRBoland/gpt-chat-bot) utilising OpenAI's API with ElevenLabs voice-to-text integration, React (using react-media-recorder for voice queries), TypeScript, Python (FastAPI) and TailwindCSS. 
+- 🔭 I’m currently working on some small freelance work with local businesses, updating their site using WordPress (first time using WordPress!) and rebuilding a separate site in React. Outside of that, I've been working on a separate project building an [AI voice bot](https://github.com/JRBoland/gpt-chat-bot), and a site with an integrated Jukebox-like audio player for my small business [Podcusts](https://github.com/JRBoland/podcusts-react).
 
 - 🌱 I’m currently learning how to use WordPress backend, TypeScript, and honing my skills in React.
   
