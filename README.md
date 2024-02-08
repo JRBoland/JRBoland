@@ -8,9 +8,9 @@
 
 <hr/>
 
-- 🔭 I’m currently working on some small freelance work with local businesses, updating their site using WordPress (first time using WordPress!) and rebuilding a separate site in React. Outside of that, I've been working on a separate project building an [AI voice bot](https://github.com/JRBoland/gpt-chat-bot), and a site with an integrated Jukebox-like audio player for my small business [Podcusts](https://github.com/JRBoland/podcusts-react).
+- 🔭 I’m currently working on some small freelance work with local businesses, rebuilding a website with React and TailwindCSS, and separately creating commodity reports for a produce logistics company, leveraging new AI tools such as CrewAI, VertexAI and ChatGPT. When I'm not working on those projects, I'm doing a bit of a deeper dive into the languages I'm already familiar with, where I'm currently learning more about automative scripting and web scraping with Python, as well as studying and practicing TypeScript.
 
-- 🌱 I’m currently learning how to use WordPress backend, TypeScript, and honing my skills in React.
+- 🌱 When I'm not coding, you can find me at the beach or making some music! (I'm an avid Ableton fan 😅)
   
 - 🚐 Check out my most recent full stack project, [Van Voyage](https://van-voyage.netlify.app); a booking application using the MERN stack (be sure to check out the stickied docs repository for a full breakdown of the project!).
 
