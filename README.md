@@ -8,7 +8,7 @@
 
 <hr/>
 
-- 🔭 I’m currently working on some small freelance work with local businesses, rebuilding a website with React and TailwindCSS, and separately creating commodity reports for a produce logistics company, leveraging new AI tools such as CrewAI, VertexAI and ChatGPT. When I'm not working on those projects, I'm doing a bit of a deeper dive into the languages I'm already familiar with, where I'm currently learning more about automative scripting and web scraping with Python, as well as studying and practicing TypeScript.
+- 🔭 I’m currently working on some small freelance work with local businesses, rebuilding a website with React and TailwindCSS, and separately creating commodity reports for a produce logistics company, leveraging new AI tools with Python, such as CrewAI, VertexAI and ChatGPT. When I'm not working on those projects, I'm doing a bit of a deeper dive into the languages I'm already familiar with, where I'm currently learning more about automative scripting and web scraping with Python, as well as studying and practicing TypeScript.
 
 - 🌱 When I'm not coding, you can find me at the beach or making some music! (I'm an avid Ableton fan 😅)
   
