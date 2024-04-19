@@ -12,7 +12,7 @@
 
 - 🌱 When I'm not coding, you can find me at the beach or making some music! (I'm an avid Ableton fan 😅)
   
-- 🚐 Check out my most recent full stack project, [Van Voyage](https://van-voyage.netlify.app); a booking application using the MERN stack (be sure to check out the stickied docs repository for a full breakdown of the project!).
+- 🚐 Check out my most recent full stack projects, [Van Voyage](https://van-voyage.netlify.app); a booking application using the MERN stack (be sure to check out the stickied docs repository for a full breakdown of the project!). Or you can have a look at my [Drone Flight Logger](https://github.com/JRBoland/drone-api-ui) Mobile App, built on TypeScript with React Native & Expo, and using a [Nestjs API backend](https://github.com/JRBoland/nestjs-drone-api) (project still needs some polish and documentation! But it's all working). 
 
 - 👨‍💻 All of my projects are available at [https://jbdev.io](https://jbdev.io)
 
