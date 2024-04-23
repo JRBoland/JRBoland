@@ -4,7 +4,7 @@
           
    <img src="https://img.shields.io/static/v1?label=hello&message=world!&color=orange?style=plastic&logo=appveyor" />
 </h1>
-<h3 align="left">A passionate Full Stack Developer</h3>
+<h3 align="left">A Full Stack Developer with a passion for building and bringing ideas to life</h3>
 
 <hr/>
 
