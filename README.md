@@ -8,11 +8,11 @@
 
 <hr/>
 
-- 🔭 I’m currently working on some small freelance work with local businesses, rebuilding a website with React and TailwindCSS.
+- 🔭 I've just finished up some freelance work, rebuilding a website with React and TailwindCSS for a local technology company, [Fliight Technologies.](https://fliight.com.au). I'm currently finding a balance between taking on new freelance work and submitting job applications 😅
 
 - 🌱 When I'm not coding, you can find me at the beach searching for a wave to surf, or making some music (I'm an avid Ableton fan 😅)
   
-- 🚐 Check out my most recent full stack projects, [Van Voyage](https://van-voyage.netlify.app); a booking application using the MERN stack (be sure to check out the stickied docs repository for a full breakdown of the project). You can also have a look at my [Drone Flight Logger](https://github.com/JRBoland/drone-api-ui) Mobile App, built on TypeScript with React Native & Expo, and using a [Nestjs API backend](https://github.com/JRBoland/nestjs-drone-api) (project still needs some polish and documentation! But it's all working). 
+- 🚐 Check out my most recent full stack projects, [Van Voyage](https://van-voyage.netlify.app); a booking application using the MERN stack (be sure to check out the stickied docs repository for a full breakdown of the project). You can also have a look at my [Drone Flight Logger](https://github.com/JRBoland/drone-api-ui) Mobile App, built on TypeScript with React Native & Expo, and using a [Nestjs API backend](https://github.com/JRBoland/nestjs-drone-api) (project still needs some polish and documentation! But it's all working). I also built a site for a local UAV technology company [Fliight Technologies.](https://fliight.com.au)
 
 - 👨‍💻 All of my projects are available at [https://jbdev.io](https://jbdev.io)
 
