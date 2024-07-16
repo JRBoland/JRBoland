@@ -8,7 +8,7 @@
 
 <hr/>
 
-- 🔭 I've just finished up some freelance work, rebuilding a website with React and TailwindCSS for a local technology company, [Fliight Technologies](https://fliight-technologies-demo-site.netlify.app), due for deployment late May 2024. I'm currently finding a balance between taking on new freelance work and submitting job applications 😅
+- 🔭 I've just finished up some freelance work, rebuilding a website with React and TailwindCSS for a local technology company, [Fliight Technologies](https://fliight.com.au)
 
 - 🌱 When I'm not coding, you can find me at the beach searching for a wave to surf, or making some music (I'm an avid Ableton fan 😅)
   
